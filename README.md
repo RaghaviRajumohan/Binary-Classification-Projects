@@ -4,7 +4,7 @@ Welcome to my Classification Models project repository! This repository features
 
 ## Project Overview
 
-Classification is a fundamental task in machine learning, involving the assignment of labels to input data. This repository contains multiple projects where different classification models are applied to solve diverse problems, from fraud detection to sentiment analysis.
+Classification is a fundamental task in machine learning, involving the assignment of labels to input data. This repository contains multiple projects where different classification models are applied to solve diverse problems.
 
 ## Technical Details
 
